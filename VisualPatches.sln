@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakeryPatch", "BakeryPatch.csproj", "{1CF46037-387E-421C-B84D-A5F4FDC2492E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualPatches", "VisualPatches.csproj", "{D83E5ACA-6C75-4AA8-986B-62D7D24D20F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1CF46037-387E-421C-B84D-A5F4FDC2492E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1CF46037-387E-421C-B84D-A5F4FDC2492E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1CF46037-387E-421C-B84D-A5F4FDC2492E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1CF46037-387E-421C-B84D-A5F4FDC2492E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83E5ACA-6C75-4AA8-986B-62D7D24D20F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83E5ACA-6C75-4AA8-986B-62D7D24D20F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83E5ACA-6C75-4AA8-986B-62D7D24D20F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83E5ACA-6C75-4AA8-986B-62D7D24D20F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4B0B1027-1F58-4D10-9680-E4506F6C2B51}
+		SolutionGuid = {3D42E7D3-DC2E-4587-8C2C-AC641BD2696E}
 	EndGlobalSection
 EndGlobal
